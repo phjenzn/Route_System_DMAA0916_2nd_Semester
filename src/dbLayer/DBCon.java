@@ -9,11 +9,11 @@ import java.sql.PreparedStatement;
 
 public class DBCon
 {
-	private static final String	DBNAME	= "dmaa0916_128844";
-	private static final String	DBHOST	= "kraka.ucn.dk";
-	private static final int	DBPORT	= 1433;
-	private static final String	DBUSER	= "dmaa0916_128844";
-	private static final String	DBPASS	= "Password1!";
+	private static final String	DBNAME	= "";
+	private static final String	DBHOST	= "";
+	private static final int	DBPORT	= ;
+	private static final String	DBUSER	= "";
+	private static final String	DBPASS	= "";
 
 	private static Connection	con		= null;
 	private static DBCon		dbCon;
